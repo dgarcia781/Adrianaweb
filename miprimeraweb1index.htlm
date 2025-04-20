@@ -2,22 +2,6 @@
 <html lang="es">
 <head>
 </head>
-<body>
-  <h1>Bienvenido a mi página</h1>
-
-  <h2>Bandera de Colombia</h2>
-  <img src="bandera-colombia.png" alt="Bandera de Colombia" width="300">
-
-  <h2>Logo de la UAN</h2>
-  <img src="logotipo-uan.jpg" alt="Logo UAN" width="300">
-
-  <h2>La torre Colpatria</h2>
-  <img src="torre-colpatria.jpg" alt="Torre Colpatria" width="300">
-
-  <h2>Arte surrealista</h2>
-  <img src="virus-surrealista.png" alt="Imagen surrealista" width="300">
-
-</body>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Curso de Virología - Universidad Antonio Nariño</title>
