@@ -94,4 +94,57 @@
     <img src="bandera-colombia.png" alt="Bandera de Colombia" class="flag">
   </header>
 
-  <
+  <nav>
+    <ul>
+      <li><a href="#">Inicio</a></li>
+      <li class="dropdown">
+        <a href="#">Secciones ▼</a>
+        <ul class="dropdown-content">
+          <li><a href="#descripcion">Descripción</a></li>
+          <li><a href="#plan">Plan de Estudios</a></li>
+          <li><a href="#instructores">Instructores</a></li>
+          <li><a href="#contacto">Contacto</a></li>
+        </ul>
+      </li>
+      <li><a href="#inscripcion">Inscripción</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="descripcion">
+      <h2>Descripción del Curso</h2>
+      <p>Aprende los fundamentos de la virología, virus actuales de importancia clínica y hablaremos de mitos y realidades.</p>
+    </section>
+
+    <section id="plan">
+      <h2>Plan de Estudios</h2>
+      <ul>
+        <li>Módulo 1: Premios Nobel de medicina gracias a la virología</li>
+        <li>Módulo 2: Virus que inducen cáncer</li>
+        <li>Módulo 3: Virus emergentes: monkeypox y Ébola</li>
+        <li>Módulo 4: Mitos y realidades</li>
+      </ul>
+    </section>
+
+    <section id="instructores">
+      <h2>Instructores</h2>
+      <p>Dra. Adriana García</p>
+    </section>
+
+    <section id="contacto">
+      <h2>Contacto</h2>
+      <p>Email: virologia@unan.edu.co | Teléfono: +57 1 2345678</p>
+    </section>
+
+    <section id="inscripcion">
+      <h2>Inscripción</h2>
+      <p>Inscríbete gratuitamente en nuestro repositorio de GitHub Pages.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Universidad Antonio Nariño</p>
+    <img src="virus-surrealista.png" alt="Virus animado" class="virus-anim">
+  </footer>
+</body>
+</html>
